@@ -1,10 +1,15 @@
-# EVM puzzles [Solved]
+# Solved EVM Puzzles and More EVM Puzzles
 
 A collection of EVM puzzles. Each puzzle consists on sending a successful transaction to a contract. The bytecode of the contract is provided, and you need to fill the transaction data that won't revert the execution.
 
+Total Puzzles Solved: 20
+
 ## How to play
 
-Clone this repository and install its dependencies (`npm install` or `yarn`). Then run:
+1. Clone this repository
+2. Delete the solutions folder
+3. Install its dependencies (`npm install` or `yarn`).
+4. Then run:
 
 ```
 npx hardhat play
